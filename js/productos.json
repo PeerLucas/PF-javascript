@@ -1,0 +1,243 @@
+[
+    {
+        "id": "griferia-01",
+        "titulo": "griferia 01",
+        "imagen": "./img/mano1.png",
+        "categoria": {
+            "nombre": "Griferias",
+            "id": "Griferias"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "griferia-02",
+        "titulo": "griferia 02",
+        "imagen": "./img/mano2.png",
+        "categoria": {
+            "nombre": "Griferias",
+            "id": "Griferias"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "griferia-03",
+        "titulo": "griferia 03",
+        "imagen": "./img/mano3.png",
+        "categoria": {
+            "nombre": "Griferias",
+            "id": "Griferias"
+        },
+        "precio": 60000
+    },
+    {
+        "id": "griferia-04",
+        "titulo": "griferia 04",
+        "imagen": "./img/mano4.png",
+        "categoria": {
+            "nombre": "Griferias",
+            "id": "Griferias"
+        },
+        "precio": 70000
+    },
+    {
+        "id": "griferia-05",
+        "titulo": "griferia 05",
+        "imagen": "./img/mano5.png",
+        "categoria": {
+            "nombre": "Griferias",
+            "id": "Griferias"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "griferia-05",
+        "titulo": "griferia 05",
+        "imagen": "./img/mano6.png",
+        "categoria": {
+            "nombre": "Griferias",
+            "id": "Griferias"
+        },
+        "precio": 90000
+    },
+    {
+        "id": "griferia-05",
+        "titulo": "griferia 05",
+        "imagen": "./img/mano7.png",
+        "categoria": {
+            "nombre": "Griferias",
+            "id": "Griferias"
+        },
+        "precio": 74000
+    },
+    {
+        "id": "griferia-05",
+        "titulo": "griferia 05",
+        "imagen": "./img/mano8.png",
+        "categoria": {
+            "nombre": "Griferias",
+            "id": "Griferias"
+        },
+        "precio": 55000
+    },
+    {
+        "id": "griferia de ducha-01",
+        "titulo": "griferia de ducha 01",
+        "imagen": "./img/duchas1.png",
+        "categoria": {
+            "nombre": "Duchas",
+            "id": "Duchas"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "griferia de ducha-02",
+        "titulo": "griferia de ducha 02",
+        "imagen": "./img/duchas2.png",
+        "categoria": {
+            "nombre": "Duchas",
+            "id": "Duchas"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "griferia de ducha-03",
+        "titulo": "griferia de ducha 03",
+        "imagen": "./img/duchas3.png",
+        "categoria": {
+            "nombre": "Duchas",
+            "id": "Duchas"
+        },
+        "precio": 37000
+    },
+    {
+        "id": "griferia de ducha-04",
+        "titulo": "griferia de ducha 04",
+        "imagen": "./img/duchas4.png",
+        "categoria": {
+            "nombre": "Duchas",
+            "id": "Duchas"
+        },
+        "precio": 44000
+    },
+    {
+        "id": "griferia de ducha-05",
+        "titulo": "griferia de ducha 05",
+        "imagen": "./img/duchas5.png",
+        "categoria": {
+            "nombre": "Duchas",
+            "id": "Duchas"
+        },
+        "precio": 96000
+    },
+    {
+        "id": "griferia de ducha-06",
+        "titulo": "griferia de ducha 06",
+        "imagen": "./img/duchas6.png",
+        "categoria": {
+            "nombre": "Duchas",
+            "id": "Duchas"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "griferia de ducha-07",
+        "titulo": "griferia de ducha 07",
+        "imagen": "./img/duchas7.png",
+        "categoria": {
+            "nombre": "Duchas",
+            "id": "Duchas"
+        },
+        "precio": 77460
+    },
+    {
+        "id": "griferia de ducha-08",
+        "titulo": "griferia de ducha 08",
+        "imagen": "./img/duchas8.png",
+        "categoria": {
+            "nombre": "Duchas",
+            "id": "Duchas"
+        },
+        "precio": 59570
+    },
+    {
+        "id": "inodoro-01",
+        "titulo": "inodoro 01",
+        "imagen": "./img/ino1.png",
+        "categoria": {
+            "nombre": "Inodoros",
+            "id": "Inodoros"
+        },
+        "precio": 110000
+    },
+    {
+        "id": "inodoro-02",
+        "titulo": "inodoro 02",
+        "imagen": "./img/ino2.png",
+        "categoria": {
+            "nombre": "Inodoros",
+            "id": "Inodoros"
+        },
+        "precio": 94000
+    },
+    {
+        "id": "inodoro-03",
+        "titulo": "inodoro 03",
+
+        "imagen": "./img/ino3.png",
+        "categoria": {
+            "nombre": "Inodoros",
+            "id": "Inodoros"
+        },
+        "precio": 87000
+    },
+    {
+        "id": "inodoro-04",
+        "titulo": "inodoro 04",
+        "imagen": "./img/ino4.png",
+        "categoria": {
+            "nombre": "Inodoros",
+            "id": "Inodoros"
+        },
+        "precio": 69000
+    },
+    {
+        "id": "inodoro-05",
+        "titulo": "inodoro 05",
+        "imagen": "./img/ino5.png",
+        "categoria": {
+            "nombre": "Inodoros",
+            "id": "Inodoros"
+        },
+        "precio": 154000
+    },
+    {
+        "id": "inodoro-06",
+        "titulo": "inodoro 06",
+        "imagen": "./img/ino6.png",
+        "categoria": {
+            "nombre": "Inodoros",
+            "id": "Inodoros"
+        },
+        "precio": 97000
+    },
+    {
+        "id": "inodoro-07",
+        "titulo": "inodoro 07",
+        "imagen": "./img/ino7.png",
+        "categoria": {
+            "nombre": "Inodoros",
+            "id": "Inodoros"
+        },
+        "precio": 147000
+    },
+    {
+        "id": "inodoro-08",
+        "titulo": "inodoro 08",
+        "imagen": "./img/ino8.png",
+        "categoria": {
+            "nombre": "Inodoros",
+            "id": "Inodoros"
+        },
+        "precio": 163000
+    }
+]
